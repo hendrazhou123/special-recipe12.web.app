@@ -1,0 +1,13 @@
+{
+  "hosting": {
+  
+  "site": "special-recipe12",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
